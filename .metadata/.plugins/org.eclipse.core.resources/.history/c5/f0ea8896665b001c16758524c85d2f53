@@ -1,0 +1,5 @@
+package com.jcg.spring.setter.injection;
+
+public class AppMain {
+
+}
